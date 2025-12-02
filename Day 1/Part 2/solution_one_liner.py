@@ -1,0 +1,1 @@
+print("Solution: " + str(sum([location := 50] and [(dir := 1 if line[0] == 'R' else -1, amount := int(line[1:]), ((1 if (location % 100 != 0 and (-1)*dir*(location + dir*(amount % 100)) <= (0 if dir == -1 else -100)) else 0) + amount // 100), location := (location + dir*amount) % 100)[2] for line in open("input.txt", "r").readlines()])))
