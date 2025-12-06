@@ -13,3 +13,6 @@ This is some of the worst code I've ever written...
 
 ## Day 5
 Part 2 couldn't be brute forced but I didn't check before coding a solution… I then started coding Inclusion-Exclusion without checking how many intervals there was (it would have been 2^182 numbers to add lol)
+
+## Day 6
+Part 2 hard, took a while, solution is probably bad but I am proud of it… W cephalopods ngl
