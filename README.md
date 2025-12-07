@@ -16,3 +16,6 @@ Part 2 couldn't be brute forced but I didn't check before coding a solution… I
 
 ## Day 6
 Part 2 hard, took a while, solution is probably bad but I am proud of it… W cephalopods ngl
+
+## Day 7
+I kept doing some really stupid stuff for part 2 so it took me a bit  
